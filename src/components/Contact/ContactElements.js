@@ -2,6 +2,10 @@ import styled from "styled-components";
 
 export const ContactContainer = styled.div`
   background: #5a5a5a;
+  @media screen and (max-width: 768px) {
+    font-size: 20px;
+    //padding-top: 450px
+  }
 `;
 
 export const ContactTitle = styled.h1`

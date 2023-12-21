@@ -61,7 +61,7 @@ const ProjectsSection = ({
                     Freight Management Platform
                   </SubtitleHeader>
                   <Subtitle darkText={darkText}>
-                    A robust web platform empowering importers/exporters to
+                    Carried out a robust web platform empowering importers/exporters to
                     streamline freight management. Technologies: Microservices,
                     AWS ECS SES S3, .NET 7, Microsoft.Identity, ReactTS, GH
                     Actions, RabbitMQ.
@@ -130,7 +130,7 @@ const ProjectsSection = ({
                   <Subtitle darkText={darkText}>
                     .NET and React.js application facilitating multiple clients
                     in seamless transaction requests, both front and back-end.
-                    (Front at BankCompleteFront repo)
+                    (Front at BankCompleteFront repo).
                   </Subtitle>
                 </SubtitleWrap>
               </AllSubtitlesWrap>
