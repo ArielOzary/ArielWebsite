@@ -71,7 +71,7 @@ const ProjectsSection = ({
                 <SubtitleWrap>
                   <SubtitleHeader
                     onClick={() =>
-                      handleButtonClick("https://github.com/Arielegend/Ariel")
+                      handleButtonClick("https://github.com/ArielOzary/ArielWebsite")
                     }
                     darkText={darkText}
                   >
